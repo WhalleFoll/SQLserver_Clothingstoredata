@@ -1,17 +1,42 @@
+---
+typora-root-url: ./
+---
+
 # SQLserver_Clothingstoredata
 
 #### 介绍
 服装店数据管理系统
 
-#### 软件架构
-软件架构说明
+#### 实体图
+
+1. 服装基本信息实体图
+
+   ![](/picture/entity1.png)
+
+2. 买家基本信息实体图
+
+   ![](/picture/entity2.png)
+
+3. 订单基本信息实体图
+
+   ![](/picture/entity3.png)
+
+4. 管理员实体图
+
+   ![](/picture/entity4.png)
+
+#### ER图
+
+![](/picture/ER.png)
 
 
-#### 安装教程
+#### 部分软件界面
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+![](/picture/login.png)
+
+![](/picture/systeam.png)
+
+![](/picture/systeam2.png)
 
 #### 使用说明
 
